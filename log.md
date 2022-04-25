@@ -34,4 +34,13 @@
 
 **Thoughts:** Motivated!
 
-**Link to work:**
+**Link to work:** NA
+
+# Template
+## Day #: 4/24/22
+
+**Today's Progress:** Looked at the Coursera Algorithm course from Princeton, and read about ACID compliance
+
+**Thoughts:** Feeling motivated but tired today, ready to start the week off strong tomorrow
+
+**Link to work:** NA
