@@ -44,3 +44,21 @@
 **Thoughts:** Feeling motivated but tired today, ready to start the week off strong tomorrow
 
 **Link to work:** NA
+
+# Template
+## Day #: 4/25/22
+
+**Today's Progress:** Woke up very sick!
+
+**Thoughts:** NA
+
+**Link to work:** NA
+
+# Template
+## Day #: 4/26/22
+
+**Today's Progress:** Feeling better - redid resume to match a more professional template, began Mosh's DS & Algo video and built an Array class from scratch, solved 2 Algo problems on Codesignal, solved 1.leetcode with two solutions 
+
+**Thoughts:** I have a lot to do. It's like sitting at the foot of a mountain and staring up at its peak. But, I know I can do it. The only limiting factor I have is time.
+
+**Link to work:** https://github.com/scmgustafson/leetcode_solutions/blob/master/1.java, https://docs.google.com/document/d/13LLeDfxj-ZuQLP0WWpCMmuklAcxPmkZTDT0cUPWrdCA/edit
