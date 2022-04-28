@@ -62,3 +62,12 @@
 **Thoughts:** I have a lot to do. It's like sitting at the foot of a mountain and staring up at its peak. But, I know I can do it. The only limiting factor I have is time.
 
 **Link to work:** https://github.com/scmgustafson/leetcode_solutions/blob/master/1.java, https://docs.google.com/document/d/13LLeDfxj-ZuQLP0WWpCMmuklAcxPmkZTDT0cUPWrdCA/edit
+
+# Template
+## Day #: 4/27/22
+
+**Today's Progress:** Interview with DMS, finished Mosh's DS and Algo Intro video, built a linked list class from scratch, solved #9 - #1920 - #2236 - +others- leetcodes
+
+**Thoughts:** Long, productive day but I think I need to hit more than 5 solid leetcodes a day as well as learning more.
+
+**Link to work:** Too many commits to link
