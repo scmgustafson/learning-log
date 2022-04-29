@@ -71,3 +71,16 @@
 **Thoughts:** Long, productive day but I think I need to hit more than 5 solid leetcodes a day as well as learning more.
 
 **Link to work:** Too many commits to link
+
+# Template
+## Day #: 4/28/22
+
+**Today's Progress:**
+- Learned about Microservices and Spring Framework
+- Started Mosh's DS and Algo course past intro, extended Array custom class
+- Solved a few leetcodes
+- Job hunting, woo!
+
+**Thoughts:** Need. to. do. more. leetcode.
+
+**Link to work:** Too many commits to link

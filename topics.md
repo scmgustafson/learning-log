@@ -4,6 +4,7 @@
 
 # Articles
 - How Does HTTPS Actually Work (https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- CAP Theorem (https://en.wikipedia.org/wiki/CAP_theorem)
 
 # Videos
 - How We've Scaled Dropbox (https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -11,3 +12,4 @@
 # Misc
 - Princeton Coursera Algorithm Course
 - Java Style Guide (https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Naming)
+- Spring Boot Tutorial (https://www.youtube.com/watch?v=vtPkZShrvXQ)
