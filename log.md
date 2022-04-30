@@ -84,3 +84,16 @@
 **Thoughts:** Need. to. do. more. leetcode.
 
 **Link to work:** Too many commits to link
+
+# Template
+## Day #: 4/29/22
+
+**Today's Progress:**
+- Completed Mosh's Linked List section and exercises
+- Solved Leetcodes: 1672, 2011, 
+- Reversed a linked list, found middle, and has loop
+- Floyd's Cycle-finding Algorithm
+
+**Thoughts:** Need. to. do. more. leetcode.
+
+**Link to work:** Too many commits to link
