@@ -97,3 +97,24 @@
 **Thoughts:** Need. to. do. more. leetcode.
 
 **Link to work:** Too many commits to link
+
+# Template
+## Day #: 4/29/22
+
+**Today's Progress:**
+- Solved Leetcodes: 1470, 1431
+
+**Thoughts:** Nice lil' Saturday rest day
+
+**Link to work:**
+
+# Template
+## Day #: 5/1/22
+
+**Today's Progress:**
+- Solved Leetcodes: 2160, 1476, 1512
+- Learned about REST Apis, Stateless/Stateful, 
+
+**Thoughts:** Need. to. do. more. leetcode.
+
+**Link to work:** 
