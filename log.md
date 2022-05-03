@@ -118,3 +118,16 @@
 **Thoughts:** Need. to. do. more. leetcode.
 
 **Link to work:** 
+
+# Template
+## Day #: 5/1/22
+
+**Today's Progress:**
+- Solved Leetcodes: 876, 2181, 237, 771
+- Learned about Apis VS. SDKs, 
+- Started learning how to contribute to Opensource software
+- Finish Mosh's lesson on Stacks
+
+**Thoughts:** Need. to. do. more. leetcode.
+
+**Link to work:** 
