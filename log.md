@@ -120,7 +120,7 @@
 **Link to work:** 
 
 # Template
-## Day #: 5/1/22
+## Day #: 5/2/22
 
 **Today's Progress:**
 - Solved Leetcodes: 876, 2181, 237, 771
@@ -129,5 +129,27 @@
 - Finish Mosh's lesson on Stacks
 
 **Thoughts:** Need. to. do. more. leetcode.
+
+**Link to work:** 
+
+# Template
+## Day #: 5/3/22
+
+**Today's Progress:**
+- Interviewed with DMS
+- Solved Leetcodes: 1603, 1528, 1389, 1678
+- Created a basic RESTful webservice using Spring Boot
+
+**Thoughts:** Must begin focusing more on optimizing first solution.
+
+**Link to work:** 
+
+# Template
+## Day #: 5/4/22
+
+**Today's Progress:**
+- Solved Leetcodes: 1475, 682
+
+**Thoughts:** 
 
 **Link to work:** 
