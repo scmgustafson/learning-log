@@ -148,8 +148,8 @@
 ## Day #: 5/4/22
 
 **Today's Progress:**
-- Solved Leetcodes: 1475, 682
+- Solved Leetcodes: 1475, 682, 206, 1769
 
-**Thoughts:** 
+**Thoughts:** Tomorrow I'd like to focus on finishing new data structure study rather than practicing what I have already.
 
 **Link to work:** 
