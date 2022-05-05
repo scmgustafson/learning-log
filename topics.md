@@ -8,6 +8,7 @@
 
 # Videos
 - How We've Scaled Dropbox (https://www.youtube.com/watch?v=PE4gwstWhmc)
+- Contributing to OpenSource software (https://www.youtube.com/watch?v=8B_JWf7pG20)
 
 # Misc
 - Princeton Coursera Algorithm Course
