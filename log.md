@@ -9,7 +9,6 @@
 
 **Link to work:**
 
-# Template
 ## Day #: 4/21/2022
 
 **Today's Progress:** Reviewed Big O notation and played with the idea of creating topic infographics to help cement learning concepts.
@@ -18,7 +17,6 @@
 
 **Link to work:** N/A
 
-# Template
 ## Day #: 4/22/2022
 
 **Today's Progress:** Reviewed Big O notation MORE, created an Infographic on constant, linear, and quadratic Big O examples, solved FizzBuzz in Java for the first time, started Interviews.school for interview prep guidance, and created an 8 point Leetcode/Algorithmic Problem step-by-step guide
@@ -27,7 +25,6 @@
 
 **Link to work:** https://github.com/scmgustafson/leetcode_solutions/commit/43c038380a605e8d128e09c82ed6363d2d0d4319, https://github.com/scmgustafson/infographics/commit/d55617e2b4aca469c20a899cde0e8eb027ed551a
 
-# Template
 ## Day #: 4/23/22
 
 **Today's Progress:** Created Topics.MD and stocked with initial topics in Learning-Log, nothing else - going to San Francisco.
@@ -36,7 +33,6 @@
 
 **Link to work:** NA
 
-# Template
 ## Day #: 4/24/22
 
 **Today's Progress:** Looked at the Coursera Algorithm course from Princeton, and read about ACID compliance
@@ -45,7 +41,6 @@
 
 **Link to work:** NA
 
-# Template
 ## Day #: 4/25/22
 
 **Today's Progress:** Woke up very sick!
@@ -54,7 +49,6 @@
 
 **Link to work:** NA
 
-# Template
 ## Day #: 4/26/22
 
 **Today's Progress:** Feeling better - redid resume to match a more professional template, began Mosh's DS & Algo video and built an Array class from scratch, solved 2 Algo problems on Codesignal, solved 1.leetcode with two solutions 
@@ -63,7 +57,6 @@
 
 **Link to work:** https://github.com/scmgustafson/leetcode_solutions/blob/master/1.java, https://docs.google.com/document/d/13LLeDfxj-ZuQLP0WWpCMmuklAcxPmkZTDT0cUPWrdCA/edit
 
-# Template
 ## Day #: 4/27/22
 
 **Today's Progress:** Interview with DMS, finished Mosh's DS and Algo Intro video, built a linked list class from scratch, solved #9 - #1920 - #2236 - +others- leetcodes
@@ -72,7 +65,6 @@
 
 **Link to work:** Too many commits to link
 
-# Template
 ## Day #: 4/28/22
 
 **Today's Progress:**
@@ -85,7 +77,6 @@
 
 **Link to work:** Too many commits to link
 
-# Template
 ## Day #: 4/29/22
 
 **Today's Progress:**
@@ -98,7 +89,6 @@
 
 **Link to work:** Too many commits to link
 
-# Template
 ## Day #: 4/29/22
 
 **Today's Progress:**
@@ -108,7 +98,6 @@
 
 **Link to work:**
 
-# Template
 ## Day #: 5/1/22
 
 **Today's Progress:**
@@ -119,7 +108,6 @@
 
 **Link to work:** 
 
-# Template
 ## Day #: 5/2/22
 
 **Today's Progress:**
@@ -132,7 +120,6 @@
 
 **Link to work:** 
 
-# Template
 ## Day #: 5/3/22
 
 **Today's Progress:**
@@ -144,7 +131,15 @@
 
 **Link to work:** 
 
-# Template
+## Day #: 5/4/22
+
+**Today's Progress:**
+- Solved Leetcodes: 1475, 682, 206, 1769
+
+**Thoughts:** Tomorrow I'd like to focus on finishing new data structure study rather than practicing what I have already.
+
+**Link to work:** 
+
 ## Day #: 5/4/22
 
 **Today's Progress:**
