@@ -140,11 +140,13 @@
 
 **Link to work:** 
 
-## Day #: 5/4/22
+## Day #: 5/5/22
 
 **Today's Progress:**
-- Solved Leetcodes: 1475, 682, 206, 1769
+- Solved Leetcodes: 1221, 1859, 
+- Completed Abalta pre-screen (OMFG WTF)
+- Finished Mosh's Queue section, and started Hash Table section
 
-**Thoughts:** Tomorrow I'd like to focus on finishing new data structure study rather than practicing what I have already.
+**Thoughts:** I need to get started on the Spring API project.
 
 **Link to work:** 
