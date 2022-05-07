@@ -150,3 +150,15 @@
 **Thoughts:** I need to get started on the Spring API project.
 
 **Link to work:** 
+
+## Day #: 5/6/22
+
+**Today's Progress:**
+- Solved Leetcodes: 1773
+- Refactored resume, applied for more jobs
+- Phone call with Jonathan
+- Started Hashmaps from Mosh course, started implementing from scratch
+
+**Thoughts:** I need to get started on the Spring API project.
+
+**Link to work:** 
