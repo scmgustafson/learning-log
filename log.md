@@ -162,3 +162,13 @@
 **Thoughts:** I need to get started on the Spring API project.
 
 **Link to work:** 
+
+## Day #: 5/7/22
+
+**Today's Progress:**
+- Solved Leetcodes: NA
+- Finished Mosh's HashTable section, and Queue exercises
+
+**Thoughts:** I need to get started on the Spring API project.
+
+**Link to work:** 
