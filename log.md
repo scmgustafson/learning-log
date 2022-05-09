@@ -172,3 +172,12 @@
 **Thoughts:** I need to get started on the Spring API project.
 
 **Link to work:** 
+
+## Day #: 5/8/22
+
+**Today's Progress:**
+- Not much :)
+
+**Thoughts:** I need to get started on the Spring API project.
+
+**Link to work:** 
