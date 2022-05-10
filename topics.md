@@ -9,8 +9,10 @@
 # Videos
 - How We've Scaled Dropbox (https://www.youtube.com/watch?v=PE4gwstWhmc)
 - Contributing to OpenSource software (https://www.youtube.com/watch?v=8B_JWf7pG20)
+- System Design for Beginners (https://www.youtube.com/watch?v=MbjObHmDbZo)
 
 # Misc
 - Princeton Coursera Algorithm Course
 - Java Style Guide (https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Naming)
 - Spring Boot Tutorial (https://www.youtube.com/watch?v=vtPkZShrvXQ)
+- CS Careers Leetcode Tips (https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/)

@@ -181,3 +181,14 @@
 **Thoughts:** I need to get started on the Spring API project.
 
 **Link to work:** 
+
+## Day #: 5/9/22
+
+**Today's Progress:**
+- Solved leetcodes: 2037, 1688
+- Watched video on how HTTP requests work, started intro to system design video
+- Completed Mosh's Hash exercises
+
+**Thoughts:** I need to get started on the Spring API project.
+
+**Link to work:**
