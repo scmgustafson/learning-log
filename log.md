@@ -193,11 +193,20 @@
 
 **Link to work:**
 
-## Day #: 5/9/22
+## Day #: 5/10/22
 
 **Today's Progress:**
 - Solved leetcodes: NA
 - Started Mosh's Tree course, built a Binary Tree from scratch, learned about traversal methods
+
+**Thoughts:** I REALLY NEED TO GET STARTED ON THE SPRING API PROJECT.
+
+**Link to work:**
+
+## Day #: 5/11/22
+
+**Today's Progress:**
+- Reviewed BST traversal methods
 
 **Thoughts:** I REALLY NEED TO GET STARTED ON THE SPRING API PROJECT.
 
