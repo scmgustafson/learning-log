@@ -211,3 +211,13 @@
 **Thoughts:** I REALLY NEED TO GET STARTED ON THE SPRING API PROJECT.
 
 **Link to work:**
+
+## Day #: 5/12/22
+
+**Today's Progress:**
+- learned more about recursion
+- 2 interviews
+
+**Thoughts:**
+
+**Link to work:**
