@@ -221,3 +221,14 @@
 **Thoughts:**
 
 **Link to work:**
+
+## Day #: 5/13/22
+
+**Today's Progress:**
+- Solved Leetcodes: 1379
+- Continued BSTs with Mosh
+- Learned about Terraform
+
+**Thoughts:**
+
+**Link to work:**
