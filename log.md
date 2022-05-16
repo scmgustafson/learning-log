@@ -1,7 +1,7 @@
 # Learning Log - Log File
 
 # Template
-## Day #: 1/1/1111
+## Day 1: 1/1/1111
 
 **Today's Progress:**
 
@@ -9,7 +9,7 @@
 
 **Link to work:**
 
-## Day #: 4/21/2022
+## Day 2: 4/21/2022
 
 **Today's Progress:** Reviewed Big O notation and played with the idea of creating topic infographics to help cement learning concepts.
 
@@ -17,7 +17,7 @@
 
 **Link to work:** N/A
 
-## Day #: 4/22/2022
+## Day 3: 4/22/2022
 
 **Today's Progress:** Reviewed Big O notation MORE, created an Infographic on constant, linear, and quadratic Big O examples, solved FizzBuzz in Java for the first time, started Interviews.school for interview prep guidance, and created an 8 point Leetcode/Algorithmic Problem step-by-step guide
 
@@ -25,7 +25,7 @@
 
 **Link to work:** https://github.com/scmgustafson/leetcode_solutions/commit/43c038380a605e8d128e09c82ed6363d2d0d4319, https://github.com/scmgustafson/infographics/commit/d55617e2b4aca469c20a899cde0e8eb027ed551a
 
-## Day #: 4/23/22
+## Day 4: 4/23/22
 
 **Today's Progress:** Created Topics.MD and stocked with initial topics in Learning-Log, nothing else - going to San Francisco.
 
@@ -33,7 +33,7 @@
 
 **Link to work:** NA
 
-## Day #: 4/24/22
+## Day 5: 4/24/22
 
 **Today's Progress:** Looked at the Coursera Algorithm course from Princeton, and read about ACID compliance
 
@@ -41,7 +41,7 @@
 
 **Link to work:** NA
 
-## Day #: 4/25/22
+## Day 6: 4/25/22
 
 **Today's Progress:** Woke up very sick!
 
@@ -49,7 +49,7 @@
 
 **Link to work:** NA
 
-## Day #: 4/26/22
+## Day 7: 4/26/22
 
 **Today's Progress:** Feeling better - redid resume to match a more professional template, began Mosh's DS & Algo video and built an Array class from scratch, solved 2 Algo problems on Codesignal, solved 1.leetcode with two solutions 
 
@@ -57,7 +57,7 @@
 
 **Link to work:** https://github.com/scmgustafson/leetcode_solutions/blob/master/1.java, https://docs.google.com/document/d/13LLeDfxj-ZuQLP0WWpCMmuklAcxPmkZTDT0cUPWrdCA/edit
 
-## Day #: 4/27/22
+## Day 8: 4/27/22
 
 **Today's Progress:** Interview with DMS, finished Mosh's DS and Algo Intro video, built a linked list class from scratch, solved #9 - #1920 - #2236 - +others- leetcodes
 
@@ -65,7 +65,7 @@
 
 **Link to work:** Too many commits to link
 
-## Day #: 4/28/22
+## Day 9: 4/28/22
 
 **Today's Progress:**
 - Learned about Microservices and Spring Framework
@@ -77,7 +77,7 @@
 
 **Link to work:** Too many commits to link
 
-## Day #: 4/29/22
+## Day 10: 4/29/22
 
 **Today's Progress:**
 - Completed Mosh's Linked List section and exercises
@@ -89,7 +89,7 @@
 
 **Link to work:** Too many commits to link
 
-## Day #: 4/29/22
+## Day 11: 4/29/22
 
 **Today's Progress:**
 - Solved Leetcodes: 1470, 1431
@@ -98,7 +98,7 @@
 
 **Link to work:**
 
-## Day #: 5/1/22
+## Day 12: 5/1/22
 
 **Today's Progress:**
 - Solved Leetcodes: 2160, 1476, 1512
@@ -108,7 +108,7 @@
 
 **Link to work:** 
 
-## Day #: 5/2/22
+## Day 13: 5/2/22
 
 **Today's Progress:**
 - Solved Leetcodes: 876, 2181, 237, 771
@@ -120,7 +120,7 @@
 
 **Link to work:** 
 
-## Day #: 5/3/22
+## Day 14: 5/3/22
 
 **Today's Progress:**
 - Interviewed with DMS
@@ -131,7 +131,7 @@
 
 **Link to work:** 
 
-## Day #: 5/4/22
+## Day 15: 5/4/22
 
 **Today's Progress:**
 - Solved Leetcodes: 1475, 682, 206, 1769
@@ -140,7 +140,7 @@
 
 **Link to work:** 
 
-## Day #: 5/5/22
+## Day 16: 5/5/22
 
 **Today's Progress:**
 - Solved Leetcodes: 1221, 1859, 
@@ -151,7 +151,7 @@
 
 **Link to work:** 
 
-## Day #: 5/6/22
+## Day 17: 5/6/22
 
 **Today's Progress:**
 - Solved Leetcodes: 1773
@@ -163,7 +163,7 @@
 
 **Link to work:** 
 
-## Day #: 5/7/22
+## Day 18: 5/7/22
 
 **Today's Progress:**
 - Solved Leetcodes: NA
@@ -173,7 +173,7 @@
 
 **Link to work:** 
 
-## Day #: 5/8/22
+## Day 19: 5/8/22
 
 **Today's Progress:**
 - Not much :)
@@ -182,7 +182,7 @@
 
 **Link to work:** 
 
-## Day #: 5/9/22
+## Day 20: 5/9/22
 
 **Today's Progress:**
 - Solved leetcodes: 2037, 1688
@@ -193,7 +193,7 @@
 
 **Link to work:**
 
-## Day #: 5/10/22
+## Day 21: 5/10/22
 
 **Today's Progress:**
 - Solved leetcodes: NA
@@ -203,7 +203,7 @@
 
 **Link to work:**
 
-## Day #: 5/11/22
+## Day 22: 5/11/22
 
 **Today's Progress:**
 - Reviewed BST traversal methods
@@ -212,7 +212,7 @@
 
 **Link to work:**
 
-## Day #: 5/12/22
+## Day 23: 5/12/22
 
 **Today's Progress:**
 - learned more about recursion
@@ -222,7 +222,7 @@
 
 **Link to work:**
 
-## Day #: 5/13/22
+## Day 24: 5/13/22
 
 **Today's Progress:**
 - Solved Leetcodes: 1379
@@ -232,3 +232,18 @@
 **Thoughts:**
 
 **Link to work:**
+
+## Day 25: 5/14/22
+
+**Today's Progress:**
+- Solved Leetcodes: 9
+
+**Thoughts:**
+
+**Link to work:**
+
+## Day 26: 5/15/22
+
+**Today's Progress**
+- Solved Leetcodes: 26
+- Learned about reversing an int without converting to String
