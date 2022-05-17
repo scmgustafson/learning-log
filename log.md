@@ -247,3 +247,11 @@
 **Today's Progress**
 - Solved Leetcodes: 26
 - Learned about reversing an int without converting to String
+
+## Day 27: 5/16/22
+
+**Today's Progress**
+- Learned about containers vs VMs
+- Learned more about containers, Docker, and Terraform
+- Started reading The War of Art
+- Interviewed with Linqia, starting take-home project on Puppet
