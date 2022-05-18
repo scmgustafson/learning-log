@@ -255,3 +255,11 @@
 - Learned more about containers, Docker, and Terraform
 - Started reading The War of Art
 - Interviewed with Linqia, starting take-home project on Puppet
+
+## Day 28: 5/17/22
+
+**Today's Progress**
+- Read more of The War of Art
+- Network interviewed with Brenden Redlawsk
+- Learned much more about Puppet, set up Master/Client puppet servers and got them talking
+- Finished Linqia take-home project on Puppet script
