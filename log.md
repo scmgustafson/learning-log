@@ -263,3 +263,8 @@
 - Network interviewed with Brenden Redlawsk
 - Learned much more about Puppet, set up Master/Client puppet servers and got them talking
 - Finished Linqia take-home project on Puppet script
+
+## Day 29: 5/18/22
+
+**Today's Progress**
+- Took a nice rest day, looked at revamping Resume
