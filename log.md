@@ -268,3 +268,8 @@
 
 **Today's Progress**
 - Took a nice rest day, looked at revamping Resume
+
+## Day 30: 5/19/22
+**Today's Progress**
+- Solved Leetcodes: Reversing a Linked List, 2, 
+- Started Amigo's Spring Boot tutorial
