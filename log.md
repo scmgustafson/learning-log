@@ -273,3 +273,18 @@
 **Today's Progress**
 - Solved Leetcodes: Reversing a Linked List, 2, 
 - Started Amigo's Spring Boot tutorial
+
+## Day 31: 5/20/22
+**Today's Progress**
+- Continued working on Amigo's Spring Boot tutorial
+
+## Took some time off to recharge
+
+## Day 32: 5/23/22
+**Today's Progress**
+- Working on Spring API project using Hatchways template
+
+## Day 33: 5/24/22
+**Today's Progress*
+- Continuing work on Spring API project
+    - Continuing Mosh's advanced Java course to learn more about input streams, etc
