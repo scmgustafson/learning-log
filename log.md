@@ -44,3 +44,14 @@
 **Link to work:**
 - Game Chronicles (https://github.com/scmgustafson/game-chronicles/tree/main)
 - PCC chapter 3 exercises (https://github.com/scmgustafson/python-crash-course/commit/89957bf168cf11c6b684f8a6d0f9f423816cf714)
+
+## Day 4: 24/09/2023
+
+**Today's Progress:**
+- Completed PCC chapter 4
+
+**Thoughts:**
+- One of the things I learned about today is creating a new list by taking a whole slice of the original list. This is done because regular assignment of list2 = list1 just references the original list. Great example of how variables are labels and not boxes. Almost like CNAME records?
+
+**Link to work:**
+- PCC chapter 4 exercises (https://github.com/scmgustafson/python-crash-course/commit/3c8b09cb1332cb3491c7416871f88d3c76dd04e0)
