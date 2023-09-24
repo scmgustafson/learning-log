@@ -30,3 +30,17 @@
 
 **Link to work:**
 - PCC chapter 2 exercises (https://github.com/scmgustafson/python-crash-course/commit/2749e6d948e506081df179271402d8ca60a2b794)
+
+## Day 3: 23/09/2023
+
+**Today's Progress:**
+- 8 mile walk with Rickelle
+- Started the Game Chronicles repo for journalling on gaming sessions
+- Finished chapter 3 of PCC
+
+**Thoughts:**
+- It's been a very busy but satisfying day. It was important for Rickelle and I to move around in addition to me fitting in about an hour of study time for some practice with lists. Again, some of the material felt very elementary but it was also very good practice. Most of my previous DS and Algo work was done with Java so its nice to get some practice in with Python. Additionally, I started my 'game-chronicles' journal which I think should be a pretty fun little side project as a way to improve/enhance my gaming time.
+
+**Link to work:**
+- Game Chronicles (https://github.com/scmgustafson/game-chronicles/tree/main)
+- PCC chapter 3 exercises (https://github.com/scmgustafson/python-crash-course/commit/89957bf168cf11c6b684f8a6d0f9f423816cf714)
