@@ -55,3 +55,17 @@
 
 **Link to work:**
 - PCC chapter 4 exercises (https://github.com/scmgustafson/python-crash-course/commit/3c8b09cb1332cb3491c7416871f88d3c76dd04e0)
+
+## Day 5: 25/09/2023
+
+**Today's Progress:**
+- Back in the gym this morning
+- Read through PCC chapter 5 and completed only the valuable exercises
+- Read through PCC chapter 6 and completed only the valuable exercises
+
+**Thoughts:**
+- To move faster on Python review, need to priotize completing only the valuable exercises. The most elementary ones should be skipped from now on.
+
+**Link to work:**
+- PCC chapter 5 exercises (https://github.com/scmgustafson/python-crash-course/commit/ce233254c9ef0f273e337001829cef0b0b7ccfa6)
+- PCC chapter 6 exercises (https://github.com/scmgustafson/python-crash-course/commit/3873953a524d4b0bf872ba831720827c547269bc)
