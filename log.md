@@ -69,3 +69,14 @@
 **Link to work:**
 - PCC chapter 5 exercises (https://github.com/scmgustafson/python-crash-course/commit/ce233254c9ef0f273e337001829cef0b0b7ccfa6)
 - PCC chapter 6 exercises (https://github.com/scmgustafson/python-crash-course/commit/3873953a524d4b0bf872ba831720827c547269bc)
+
+## Day 6: 26/09/2023
+
+**Today's Progress:**
+- Worked through PCC chapter 7
+
+**Thoughts:**
+- Busy, busy. At this time, I am trying to do at least 1 chapter a day. Hopefully will be started on the 3 starter projects by this weekend. Would be really cool to knock at least one of those out. My rough plan is to work through those 3 projects and then decide on next course of action. Could be another Python project (need to practice with some sort of API framework), moving to DS&A study to brush up on those concepts, or moving onto Certified Kubernetes Admin courses.
+
+**Link to work:**
+- PCC chapter 7 exercises (https://github.com/scmgustafson/python-crash-course/commit/03c3b0180ab91a9e36e5922ac7632fdfc0b43725)
