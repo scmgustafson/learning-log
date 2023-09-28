@@ -80,3 +80,14 @@
 
 **Link to work:**
 - PCC chapter 7 exercises (https://github.com/scmgustafson/python-crash-course/commit/03c3b0180ab91a9e36e5922ac7632fdfc0b43725)
+
+## Day 6: 27/09/2023
+
+**Today's Progress:**
+- Completed chapter 8 of PCC
+
+**Thoughts:**
+- While considering my thoughts from yesterday, I realize that I can do a 'side side' project during the PCC projects. I could probably implement some form of CICD (linting?) for the project repos
+
+**Link to work:**
+- PCC chapter 8 exercises (https://github.com/scmgustafson/python-crash-course/commit/f0af3132e18ff0fe2211ab5826d45ddf1aa0fca8)
