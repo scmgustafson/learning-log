@@ -81,7 +81,7 @@
 **Link to work:**
 - PCC chapter 7 exercises (https://github.com/scmgustafson/python-crash-course/commit/03c3b0180ab91a9e36e5922ac7632fdfc0b43725)
 
-## Day 6: 27/09/2023
+## Day 7: 27/09/2023
 
 **Today's Progress:**
 - Completed chapter 8 of PCC
@@ -91,3 +91,25 @@
 
 **Link to work:**
 - PCC chapter 8 exercises (https://github.com/scmgustafson/python-crash-course/commit/f0af3132e18ff0fe2211ab5826d45ddf1aa0fca8)
+
+## Day 8: 28/09/2023
+
+**Today's Progress:**
+- Started PCC chapter 9 and worked through a portion of the exercises
+
+**Thoughts:**
+- Was in a rush this morning due to having to go to the office. Its been pretty difficult to keep this schedule with the other lifestyle changes I have been making but its been very rewarding. I'm already finding I am able to read code better at work (though my skill level is still simple).
+
+**Link to work:**
+- NA
+
+## Day 9: 29/09/2023
+
+**Today's Progress:**
+- Continued working through PCC chapter 9, have not finished it yet
+
+**Thoughts:**
+- 
+
+**Link to work:**
+- 
