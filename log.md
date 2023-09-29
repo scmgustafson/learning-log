@@ -106,10 +106,10 @@
 ## Day 9: 29/09/2023
 
 **Today's Progress:**
-- Continued working through PCC chapter 9, have not finished it yet
+- Continued working through PCC chapter 9 and finished it
 
 **Thoughts:**
 - 
 
 **Link to work:**
-- 
+- PCC chapter 9 exercises (https://github.com/scmgustafson/python-crash-course/commit/d1d5863dd9adb9ae94c9f4108792bc62e1a35315)
