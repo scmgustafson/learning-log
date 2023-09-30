@@ -109,7 +109,18 @@
 - Continued working through PCC chapter 9 and finished it
 
 **Thoughts:**
-- 
+- Had a good time messing around with some 'lottery analysis' which was enjoyable. Ready to get a move on with these extra projects though it is going to be a busy weekend.
 
 **Link to work:**
 - PCC chapter 9 exercises (https://github.com/scmgustafson/python-crash-course/commit/d1d5863dd9adb9ae94c9f4108792bc62e1a35315)
+
+## Day 10: 30/09/2023
+
+**Today's Progress:**
+- 
+
+**Thoughts:**
+- 
+
+**Link to work:**
+- 
