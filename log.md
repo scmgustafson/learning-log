@@ -129,9 +129,11 @@
 
 **Today's Progress:**
 - Started chapter 10 of PCC
+- Finished off chapter 10
 
 **Thoughts:**
 - First day of October, feelin' spooky!
 
 **Link to work:**
 - Progress on pcc chapter 10 exercises (https://github.com/scmgustafson/python-crash-course/commit/bad1b8b652fb808008f85b5986ebd627f55b32d4)
+- Finished PCC chapter 10 exercises (https://github.com/scmgustafson/python-crash-course/commit/e3ba9cc30b0b9c5e0c5b0fee401277314cc3b76b)
