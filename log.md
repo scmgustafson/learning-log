@@ -120,7 +120,18 @@
 - 
 
 **Thoughts:**
-- 
+- Took a nice break today!
 
 **Link to work:**
 - 
+
+## Day 11: 01/10/2023
+
+**Today's Progress:**
+- Started chapter 10 of PCC
+
+**Thoughts:**
+- First day of October, feelin' spooky!
+
+**Link to work:**
+- Progress on pcc chapter 10 exercises (https://github.com/scmgustafson/python-crash-course/commit/bad1b8b652fb808008f85b5986ebd627f55b32d4)
