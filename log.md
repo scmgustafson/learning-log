@@ -137,3 +137,19 @@
 **Link to work:**
 - Progress on pcc chapter 10 exercises (https://github.com/scmgustafson/python-crash-course/commit/bad1b8b652fb808008f85b5986ebd627f55b32d4)
 - Finished PCC chapter 10 exercises (https://github.com/scmgustafson/python-crash-course/commit/e3ba9cc30b0b9c5e0c5b0fee401277314cc3b76b)
+
+## Day 12: 02/10/2023
+
+**Today's Progress:**
+- Completed chapter 11 of PCC
+
+**Thoughts:**
+- Was able to complete all 11 introductory chapters of PCC in almost as many days, nice! Feeling very ready to move onto the projects and increase my skills further. However, I also think that now is a good time to try and cement some good habits early.
+
+Moving forward I would really like to make sure to include the following in my projects
+- Docstrings for functions and classes
+- Some level of unittests
+- a CICD pipeline for my python-crash-course repo. (I think this can be implemented after project #1)
+
+**Link to work:**
+- PCC chapter 11 exercises (https://github.com/scmgustafson/python-crash-course/commit/602340bbd6aa957b3c2c72682398698d821ca314)
