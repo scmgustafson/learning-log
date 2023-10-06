@@ -153,3 +153,25 @@ Moving forward I would really like to make sure to include the following in my p
 
 **Link to work:**
 - PCC chapter 11 exercises (https://github.com/scmgustafson/python-crash-course/commit/602340bbd6aa957b3c2c72682398698d821ca314)
+
+## Day 13: 03/10/2023
+
+**Today's Progress:**
+- Started on PCC's pygame project Alien Invasion
+
+**Thoughts:**
+-
+
+**Link to work:**
+- 
+
+## Day 16: 06/10/2023
+
+**Today's Progress:**
+- Added SuperLinter to alien invasion repo as a test, seems to be worthwhile!
+
+**Thoughts:**
+- Skipped a couple days due to heavy workload but thats OK, important to take breaks now and again
+
+**Link to work:**
+- 
