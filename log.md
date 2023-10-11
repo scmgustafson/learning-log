@@ -175,3 +175,14 @@ Moving forward I would really like to make sure to include the following in my p
 
 **Link to work:**
 - 
+
+## Day 20: 10/10/2023
+
+**Today's Progress:**
+- AWS RDS Aurora event on setting up Aurora and using it for increased resiliency
+
+**Thoughts:**
+- Again had to skip a couple days due to a heavy workload. 
+
+**Link to work:**
+- 
