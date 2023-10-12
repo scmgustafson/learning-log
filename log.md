@@ -186,3 +186,15 @@ Moving forward I would really like to make sure to include the following in my p
 
 **Link to work:**
 - 
+
+## Day 22: 12/10/2023
+
+**Today's Progress:**
+- Picked up Alien Invasion code again and created ship class, learned about how PyGame draws objects on a screen (and collision tests) as rectangles or rects.
+- I left the linter in from a few sessions ago and now I have to appease it before it will let me merge *sadface*
+
+**Thoughts:**
+- 
+
+**Link to work:**
+- Ship class PR (https://github.com/scmgustafson/python-crash-course/pull/3/files)
